@@ -17,7 +17,7 @@ This can be moved to private method or extenssion
 
 6. InvalidOperationException. It will be more convenient to add details to the error message.
 
-7. Optional. Some interfaces and classes are located in the same file, e.g. SellerApplication, SellerCompanyData.
+7. Optional. Some interfaces and classes are located in the single file, e.g. SellerApplication, SellerCompanyData.
 Separate interface and implementation files make code cleaner.
 
 
